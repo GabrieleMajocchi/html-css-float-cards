@@ -56,5 +56,13 @@ img{
 }
 
 h2, .card p{
-    margin: 0.8rem;
+    margin: 0.5rem;
+}
+
+h2{
+    font-weight: 800;
+}
+
+.card p{
+    font-size: 1.2rem;
 }
