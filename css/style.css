@@ -33,9 +33,14 @@ h1{
     font-size: 1.3rem;
 }
 
+img{
+    float: left;
+}
+
 .card-1{
     float: left;
-    background-color: blueviolet;
+    color: white;
+    background-color: rgb(15, 14, 23);
     width: 33.33%;
     height: 200px;
 }
