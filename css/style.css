@@ -35,19 +35,14 @@ h1{
 
 img{
     float: left;
+    height: 150px;
 }
 
-.card-1{
+.card{
     float: left;
     color: white;
     background-color: rgb(15, 14, 23);
-    width: 33.33%;
-    height: 200px;
-}
-
-.card-2{
-    float: left;
-    background-color: rgb(43, 46, 226);
-    height: 200px;
-    width: 200px;
+    width: 30%;
+    height: 150px;
+    margin: 30px 20px;
 }
