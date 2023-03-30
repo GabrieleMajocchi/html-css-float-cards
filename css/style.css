@@ -28,3 +28,7 @@ h1{
     padding-top: 2rem;
     padding-bottom: 3rem;
 }
+
+.title p{
+    font-size: 1.3rem;
+}
