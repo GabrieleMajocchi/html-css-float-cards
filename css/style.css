@@ -32,3 +32,17 @@ h1{
 .title p{
     font-size: 1.3rem;
 }
+
+.card-1{
+    float: left;
+    background-color: blueviolet;
+    width: 33.33%;
+    height: 200px;
+}
+
+.card-2{
+    float: left;
+    background-color: rgb(43, 46, 226);
+    height: 200px;
+    width: 200px;
+}
