@@ -13,8 +13,8 @@
 }
 
 .pad-border{
-    padding-left: 10vw;
-    padding-right: 10vw;
+    padding-left: 15vw;
+    padding-right: 15vw;
 }
 
 .title{
@@ -33,9 +33,13 @@ h1{
     font-size: 1.3rem;
 }
 
+.team{
+    padding-top: 1.5rem;
+}
+
 img{
     float: left;
-    height: 150px;
+    height: 120px;
 }
 
 .card{
@@ -43,6 +47,6 @@ img{
     color: white;
     background-color: rgb(15, 14, 23);
     width: 30%;
-    height: 150px;
+    height: 120px;
     margin: 30px 20px;
 }
