@@ -55,3 +55,6 @@ img{
     color: rgb(0, 162, 255);
 }
 
+h2, .card p{
+    margin: 0.8rem;
+}
