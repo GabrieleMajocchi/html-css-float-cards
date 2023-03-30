@@ -50,3 +50,8 @@ img{
     height: 120px;
     margin: 30px 20px;
 }
+
+.card p:last-child{
+    color: rgb(0, 162, 255);
+}
+
