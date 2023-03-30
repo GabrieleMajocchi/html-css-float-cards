@@ -10,3 +10,8 @@
     display: table;
     clear: both;
 }
+
+.pad-border{
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
