@@ -25,4 +25,6 @@ h1{
     color: rgb(226, 48, 111);
     font-size: 3rem;
     font-weight: 800;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
 }
