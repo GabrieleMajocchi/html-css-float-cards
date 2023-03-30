@@ -45,6 +45,11 @@ img{
     width: 120px;
 }
 
+.container{
+    width: calc(100% - 120px);
+    padding-left: 15px;
+}
+
 .card{
     color: white;
     background-color: rgb(15, 14, 23);
